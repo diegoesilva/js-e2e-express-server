@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/deloysilva/Azure-Kubernetes/_apis/build/status%2Fdiegoesilva.js-e2e-express-server?branchName=main)](https://dev.azure.com/deloysilva/Azure-Kubernetes/_build/latest?definitionId=2&branchName=main)
+
 ---
 page_type: sample
 languages:
